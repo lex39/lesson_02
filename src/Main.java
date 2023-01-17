@@ -50,7 +50,7 @@ public class Main {
     int[] arrNum = new int[10];
 
     for(int i = 0; i < arrNum.length; i++) {
-      System.out.print("Введит целое число: ");
+      System.out.print("Введите целое число: ");
       arrNum[i] = input.nextInt();
     }
 
